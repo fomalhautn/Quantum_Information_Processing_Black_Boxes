@@ -1,4 +1,4 @@
-[![DOI](https://sandbox.zenodo.org/badge/583267708.svg)](https://sandbox.zenodo.org/badge/latestdoi/583267708)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7504114.svg)](https://doi.org/10.5281/zenodo.7504114)
 
 # Quantum Information Processing with Black boxes
 
